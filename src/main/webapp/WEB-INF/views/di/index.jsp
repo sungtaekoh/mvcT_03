@@ -8,6 +8,7 @@
 </head>
 <body>
 	di 기본페이지~<br>
-	결과 : ${result },${requestScope.result }
+	결과 : ${result },${requestScope.result }<hr>
+	
 </body>
 </html>
